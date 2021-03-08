@@ -1,7 +1,7 @@
-# theTitan
+# TheTitan
 Project Computer Programming 
 
-จัดทำโดย
+#จัดทำโดย
 
 นายปัณฑ์ธร กันทรัพย์ 630612105
 
