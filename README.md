@@ -1,6 +1,7 @@
-# TheTitan
-Project Computer Programming 
+# TheTitan "The Moca Doodle Jump Game!"
+เกมนี้เป็นเกมแนว Jumping หรือเกมแนวกระโดดสนุก ๆ เพื่อสร้างความเพลิดเพลินและฝึกสมาธิให้กับผู้เล่น โดยเป็นเกมที่เล่นได้ง่ายไม่ยุ่งยาก ทุก ๆ ช่วงวัยสามารถเล่นได้
 
+Project Computer Programming 
 #จัดทำโดย
 
 1.นายปัณฑ์ธร กันทรัพย์ 630612105
