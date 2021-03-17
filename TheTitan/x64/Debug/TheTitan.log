@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\pulom\Desktop\Game_\TheTitan\main.cpp(63,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  TheTitan.vcxproj -> C:\Users\pulom\Desktop\Game_\x64\Debug\TheTitan.exe
