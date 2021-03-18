@@ -1,0 +1,86 @@
+﻿  main.cpp
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(268,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(269,40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(276,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(286,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(286,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(293,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(293,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(301,47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(306,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(306,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(424,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(425,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(435,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(446,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(446,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(453,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(453,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(461,39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(466,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(466,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(584,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(585,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(595,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(608,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(608,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(615,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(615,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(623,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(628,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(628,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(748,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(749,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(757,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(768,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(768,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(775,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(775,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(783,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(788,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(788,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(870,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(875,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\The Moca Doodle Jump Game\main.cpp(875,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  The Moca Doodle Jump Game.vcxproj -> C:\Users\pulom\Desktop\TheMoca\The Moca Doodle Jump Game\x64\Debug\The Moca Doodle Jump Game.exe
