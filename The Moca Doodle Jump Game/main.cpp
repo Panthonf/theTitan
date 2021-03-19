@@ -176,6 +176,8 @@ void StartGameFunction() {
                 }
                 window.clear();
                 window.draw(background);
+                lblScore.setPosition(150,180);
+                window.draw(lblScore);
                 menu.draw(window);
                 window.display();
             }
